@@ -1,3 +1,3 @@
 # webarcore
 
-https://rawcdn.githack.com/kaleaakash96/webarcore/5d8c7765ec4a615261ddb3f401abea5adfb37038/fbx.html
+https://rawcdn.githack.com/kaleaakash96/webarcore/8addc064eb8c0b9cd5c8156e861a395aa996d961/fbx.html
